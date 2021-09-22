@@ -2094,6 +2094,7 @@ class FrontContainer extends \PrestaShop\PrestaShop\Adapter\Container\LegacyCont
                 62 => 'ps_facebook',
                 63 => 'blockreassurance',
                 64 => 'ps_facetedsearch',
+                65 => 'paytech',
             ],
             'ps_cache_dir' => 'C:\\wamp64\\www\\MonProjet/var/cache/prod\\',
             'mail_themes_uri' => '/mails/themes',

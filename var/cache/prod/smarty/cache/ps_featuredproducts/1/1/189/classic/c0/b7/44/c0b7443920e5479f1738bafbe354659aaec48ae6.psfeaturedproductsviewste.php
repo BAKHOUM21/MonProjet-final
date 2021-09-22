@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.39, created on 2021-09-17 00:19:23
+/* Smarty version 3.1.39, created on 2021-09-22 13:42:37
   from 'module:psfeaturedproductsviewste' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.39',
-  'unifunc' => 'content_6143df0b728225_52707975',
+  'unifunc' => 'content_614b32cd6d5bc3_06057504',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -36,7 +36,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_6143df0b728225_52707975 (Smarty_Internal_Template $_smarty_tpl) {
+function content_614b32cd6d5bc3_06057504 (Smarty_Internal_Template $_smarty_tpl) {
 ?><section class="featured-products clearfix">
   <h2 class="h2 products-section-title text-uppercase">
     Produits populaires

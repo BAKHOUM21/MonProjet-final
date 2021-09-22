@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>paytech</name>
+    <displayName><![CDATA[PayTech]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[B&eacute;n&eacute;ficiez de la plate-forme de paiement compl&egrave;te de PayEpresse et d&eacute;veloppez votre activit&eacute; en ligne, sur mobile et web. Accepte les paiements par Orange Money, Wari, Joni Joni, PayPal, MasterCard et Visa .]]></description>
+    <author><![CDATA[PayTech]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Êtes-vous sûr de vouloir supprimer vos informations?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

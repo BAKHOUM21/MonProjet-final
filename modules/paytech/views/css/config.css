@@ -1,0 +1,97 @@
+/**
+ * Created by PhpStorm.
+ * USER: INTECH
+ * Date: 05/04/2018
+ * Time: 13:09
+ */
+
+.pe_header{
+    border-bottom: solid grey 1px;
+    margin-bottom: 19px;
+    margin-left: 10px;
+}
+.pe_headerConfig
+{
+    margin-right: 20px;
+    font-size: 16px;
+    padding-top: 10px;
+    margin-bottom: 2px;
+    font-weight: bold;
+    display: inline-block;
+    color: #2095f2;
+    cursor: pointer;
+}
+.pe_contenerLogo
+{
+
+    width: 75%;
+    margin: auto;
+
+}
+.pe_contenerLogo img
+{
+    width: 100% !important;
+}
+.pe_container
+{
+
+    padding-top: 20px;
+
+
+}
+
+.pe_produit
+{
+    background: lightskyblue;
+    border-radius: 5px;
+    padding-top: 20px;
+    min-height: 500px;
+}
+
+.pe_parametre
+{
+
+    min-height: 500px;
+
+    display: none;
+}
+
+.pe_text
+{
+    font-size: 35px;
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    color: black;
+    line-height: 50px;
+
+}
+.pe_textLineBloc
+{
+    font-size: 16px;
+    width: 40%;
+    margin: auto;
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 50px;
+    text-align: center;
+    line-height: 50px;
+    color:white;
+    vertical-align: top;
+
+}
+
+.pe_footerConfig
+{
+    margin-top: 30px;
+    height: 100px;
+    background: darkslategrey;
+    color: white;
+    border: 3px dashed white;
+    border-radius: 6px;
+}
+.pe_active{
+    border-bottom: 3px solid #4277bb;
+    color: #4277bb !important;
+}

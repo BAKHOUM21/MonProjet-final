@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.39, created on 2021-09-17 00:21:55
+/* Smarty version 3.1.39, created on 2021-09-22 13:37:52
   from 'C:\wamp64\www\MonProjet\admin374hj57bz\themes\default\template\controllers\modules\content-legacy.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.39',
-  'unifunc' => 'content_6143dfa3b04913_08104646',
+  'unifunc' => 'content_614b31b0f0b8f8_36108083',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -22,7 +22,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:controllers/modules/page.tpl' => 1,
   ),
 ),false)) {
-function content_6143dfa3b04913_08104646 (Smarty_Internal_Template $_smarty_tpl) {
+function content_614b31b0f0b8f8_36108083 (Smarty_Internal_Template $_smarty_tpl) {
 if ((isset($_smarty_tpl->tpl_vars['module_content']->value))) {?>
 	<?php echo $_smarty_tpl->tpl_vars['module_content']->value;?>
 

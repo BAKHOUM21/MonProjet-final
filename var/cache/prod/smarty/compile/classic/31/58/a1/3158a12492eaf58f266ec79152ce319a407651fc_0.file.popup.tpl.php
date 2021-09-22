@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.39, created on 2021-09-16 07:21:18
+/* Smarty version 3.1.39, created on 2021-09-22 13:41:44
   from 'C:\wamp64\www\MonProjet\modules\welcome\views\templates\popup.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.39',
-  'unifunc' => 'content_6142f06e3b0a99_25454671',
+  'unifunc' => 'content_614b3298ce2127_81295811',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_6142f06e3b0a99_25454671 (Smarty_Internal_Template $_smarty_tpl) {
+function content_614b3298ce2127_81295811 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="onboarding-popup bootstrap">
   <div class="content"></div>
